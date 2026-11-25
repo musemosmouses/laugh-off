@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae)
+[![Rank](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/musemosmouses/laugh-off/rank.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae)
+[![Reward](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/musemosmouses/laugh-off/reward.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae)
+
 # One-Line Laugh-Off
 
 Entry for the make.fun bounty `u-zkhiel-one-line-laugh-off-714618ae`
